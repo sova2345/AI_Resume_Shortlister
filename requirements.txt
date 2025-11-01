@@ -1,6 +1,0 @@
-streamlit
-spacy
-fitz
-PyMuPDF
-pandas
-numpy
